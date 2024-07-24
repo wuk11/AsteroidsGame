@@ -1,0 +1,9 @@
+{
+  "homepage": "https://wuk11.github.io/AsteroidsGame/",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
